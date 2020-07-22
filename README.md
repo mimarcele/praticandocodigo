@@ -1,3 +1,3 @@
 # praticandocodigo
 Praticando HTML.
-Colocando a disposição de todos minha primeira página HTML que fiz com códigos da apostila que estou estudando da Alura, em um curso que fiz pela instituição EDUCAFRO
+Minha primeira página web, com códigos retirados da apostila da Alura. Exercício feito como atividade do curso da educafro.
